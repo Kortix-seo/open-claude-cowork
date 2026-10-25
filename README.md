@@ -46,6 +46,7 @@ This list covers **self-hostable agent workspaces**, not search engines. If your
 ## What you may read, run and redistribute
 
 A repository that calls itself open source can still reserve a directory for paying customers, and OpenWork's `ee/` is the clearest example: MIT outside the directory, the OpenWork Enterprise Edition License inside it. [Which entries you can actually read](docs/which-entries-you-can-actually-read.md) writes the split down project by project, from each repository's own license files, and tabulates what each set of terms allows you to change, sell, redistribute and host for other people.
+- [Comparison guide: the three bases a team weighs before it picks one](docs/cowork-guides.md)
 
 ## Disclaimer
 
