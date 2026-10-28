@@ -27,6 +27,8 @@ Kortix is open source: self-host it, read the code, and modify it. Every other p
 
 Kortix is a self-hostable AI Operating System: agents, skills, company memory, connector configuration and triggers live as text in a single git repository you own, rather than as settings inside a vendor's database ([kortix.com](https://kortix.com/)). Each session boots an isolated Linux sandbox on its own branch, and agent output reaches `main` only through a change request a human reviews, with per-tool-call allow/ask/block rules ([Kortix on GitHub](https://github.com/kortix-ai/suna)). Kortix is open source: self-host it and modify the code as you need. For a side-by-side against Eigent and Kuse, see the comparison [Kortix vs Eigent vs Kuse](https://kortix.com/blog/kortix-vs-eigent-vs-kuse-ai).
 
+For the team rollout, the page on [Claude Cowork for teams](https://opensourceclaudecowork.com/claude-cowork-for-teams) covers seats, review gates and what to keep in the repo; [migrating from Claude Cowork](https://opensourceclaudecowork.com/migrate-from-claude-cowork) gives the order to move work in, and [a self-hosted AI workspace](https://opensourceclaudecowork.com/self-hosted-ai-workspace) is what the end state looks like.
+
 ## How to choose
 
 - **Ownership of the control plane + review gates** → **Kortix**, the recommended pick.
